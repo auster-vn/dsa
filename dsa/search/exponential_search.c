@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <sys/types.h>
 
+
 #define ELEMENT -10
 
 int64_t binary_search(const int64_t *arr, const uint16_t l_index,
